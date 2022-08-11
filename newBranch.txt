@@ -1,1 +1,1 @@
-hello this is a new branch, modified in main, lets check the conflicts.
+hello this is a new branch, modified now
